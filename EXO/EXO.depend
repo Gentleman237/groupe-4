@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1738272931 source:c:\users\user\desktop\premier_code\exo\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738272947 source:c:\users\user\desktop\premier_code\exo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1738272034 c:\users\user\desktop\premier_code\exo\test.h
+
