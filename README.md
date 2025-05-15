@@ -27,8 +27,8 @@ Ce projet consiste à développer un programme en langage **C** permettant la ge
    cd projet-bibliotheque-c
 
 ## MEMBRES DU GROUPE 
-MBY SAMUEL ROGER
-KOUMBOU SAMUEL
-ARREY ETTAH
-AMAECHI BRADLEY
-GOMSU ERIC
+-**MBY SAMUEL ROGER
+-**KOUMBOU SAMUEL
+-**ARREY ETTAH
+-**AMAECHI BRADLEY
+-**GOMSU ERIC
