@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1738149294 source:c:\users\user\desktop\premier_code\tpfmk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+	"commandes.h"
+	"stat.h"
+
+1738134311 c:\users\user\desktop\premier_code\tpfmk\produits.h
+
+1738147844 source:c:\users\user\desktop\premier_code\tpfmk\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+
+1738144035 source:c:\users\user\desktop\premier_code\tpfmk\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+
+1738134699 c:\users\user\desktop\premier_code\tpfmk\commandes.h
+
+1738149583 source:c:\users\user\desktop\premier_code\tpfmk\stat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+	"commandes.h"
+
+1738147886 c:\users\user\desktop\premier_code\tpfmk\stat.h
+
+1738144035 source:c:\users\computer care\desktop\tpfmk\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+
+1738134311 c:\users\computer care\desktop\tpfmk\produits.h
+
+1738230103 source:c:\users\computer care\desktop\tpfmk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+	"commandes.h"
+	"stat.h"
+
+1738134699 c:\users\computer care\desktop\tpfmk\commandes.h
+
+1738147886 c:\users\computer care\desktop\tpfmk\stat.h
+
+1738147844 source:c:\users\computer care\desktop\tpfmk\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+
+1738149583 source:c:\users\computer care\desktop\tpfmk\stat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"produits.h"
+	"commandes.h"
+
